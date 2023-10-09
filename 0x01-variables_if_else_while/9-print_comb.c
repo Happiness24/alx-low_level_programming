@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints all posible combinations of single-digit numbers
  * Return: Always 0 (Success)
@@ -13,7 +12,7 @@ int main(void)
 		putchar(n);
 		if (n != 57)
 		{
-			putchar('.');
+			putchar(',');
 			putchar(' ');
 		}
 	}
