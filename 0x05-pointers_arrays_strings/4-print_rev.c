@@ -8,8 +8,8 @@
  * Return: void
  */
 
-
 void print_rev(char *s)
+
 {
 	int c = 0;
 
@@ -17,7 +17,7 @@ void print_rev(char *s)
 	{
 	c++;
 	}
-	
+
 	for (c -= 1; c >= 0; c--)
 	{
 	_putchar(s[c]);
