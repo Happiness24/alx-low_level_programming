@@ -4,7 +4,7 @@
  * _strncpy - find the length of a string
  * @dest: pointer to the string
  * @src: pointer
- * @n: int 
+ * @n: int
  * Return: destination
  */
 
