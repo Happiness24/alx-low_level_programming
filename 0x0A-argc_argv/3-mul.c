@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * main - Prints the multiplicatin of two args numbers
+ * main - Prints the multiplication of two args number
  * @argc: argument count
  * @argv: argument vector
  *
@@ -11,7 +11,7 @@
  */
 int main(int argc, char *argv[])
 {
-	int n1 = 0; n2 = 0;
+	int n1 = 0, n2 = 0;
 
 	if (argc == 3)
 	{
