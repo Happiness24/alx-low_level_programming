@@ -1,1 +1,1 @@
-0x00 C Hello world Readme file
+0x06-pointers_arrays_strings
